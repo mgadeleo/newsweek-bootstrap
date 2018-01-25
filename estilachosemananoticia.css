@@ -1,0 +1,31 @@
+/* #signInBtn {
+  background-color: red;
+} */
+#brandy {
+  background-color: red;
+  color: white;
+  font-size: 40px;
+}
+
+#navbarTop {
+  background-color: red;
+}
+
+#navbarRight {
+  color: white;
+}
+
+#subscribe {
+  background-color: white;
+  color: red;
+  font-weight: bold;
+}
+
+#signin {
+  color: white;
+}
+
+#skelli {
+  height: 500px;
+  width: 650px;
+}
