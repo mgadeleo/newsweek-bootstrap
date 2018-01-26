@@ -4,7 +4,8 @@
 #brandy {
   background-color: red;
   color: white;
-  font-size: 40px;
+  font-size: 4em;
+  font-weight: 900;
 }
 
 #navbarTop {
@@ -223,4 +224,14 @@ hr {
   margin-right: auto;
   color: black;
   text-align: center;
+}
+
+footer {
+  padding: 30px;
+}
+
+#newsweekLogo {
+  font-size: 4em;
+  font-weight: 900;
+  color: #F5302A;
 }
